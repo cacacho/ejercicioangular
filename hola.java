@@ -1,3 +1,3 @@
 public class Hola {
-public Static void main(String vo)
+public Static void main(String arg[])
 }
